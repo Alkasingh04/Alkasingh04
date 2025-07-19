@@ -39,6 +39,7 @@
 - 💬 [Sentiment Analysis of Google Reviews](#)  
 - 📈 [YouTube Data Analysis for Viewer Engagement](#)  
 - 🛍️ [Customer Shopping Behavior Dashboard](#)
+- 💬 [Neural Network SMS Classifier](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
