@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alkasingh25aug@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Qoiet3Va_2djCElgei8d74dCtm6qdSG/view?usp=drive_link](https://drive.google.com/file/d/15Qoiet3Va_2djCElgei8d74dCtm6qdSG/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/drive/u/5/home)
 
 - ⚡ Fun fact **I love simplifying complex machine learning concepts into real-world analogies—and I’m an occasional Python meme creator 🐍✨**
 
